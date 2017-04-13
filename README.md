@@ -2,7 +2,7 @@
 
 Space Shooter is an arcade-style shooter game built in Unity for WebGL and Android.
 
-![Screenshot](space-shooter-arcade/Images/WebGL-Screenshot.jpg "Screenshot")
+![Screenshot](https://github.com/xtellurian/space-shooter-arcade/blob/master/Images/WebGL-Screenshot.jpg "Screenshot")
 
 # Features!
 
